@@ -1,5 +1,5 @@
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://prashantsinghnegi7:PSNegi123@cluster0.jzwjmdz.mongodb.net/?retryWrites=true&w=majority
+      uri: <mongo-db-url>
       database: Product
